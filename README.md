@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Mechanical Electric Engineer.
-- 💼 &nbsp; Nodejs Backend Developer at [Octopy](https://octopy.com/).
+- 💼 &nbsp; Nodejs Backend Developer at [XID](https://www.xid.com.mx/).
 - 🔭 &nbsp; I’m currently learning Python.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Enthusiast in industrial Networks and virtualization.
